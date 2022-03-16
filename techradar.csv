@@ -1,4 +1,4 @@
-"name","ring","quadrant","isNew","description"
+name,ring,quadrant,isNew,description
 React,Adopt,Frameworks,TRUE,React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies. React can be used as a base in the development of single-page or mobile applications
 GraphQL,Adopt,Frameworks,TRUE,"GraphQL is an open-source data query and manipulation language for APIs, and a runtime for fulfilling queries with existing data."
 React-query,Adopt,Frameworks,TRUE,"Fetch, cache and update data in your React and React Native applications all without touching any ""global state""."
@@ -24,6 +24,15 @@ Helm Charts,Adopt,Tools,TRUE,
 Terraform,Adopt,Tools,TRUE,
 Azure DevOps Pipelines,Adopt,Tools,TRUE,
 Notebooks,Adopt,Tools,TRUE,Share behavior/code between individuals in isolcation allowing for commits into repositories without the need for a full application.
+cert-manager.io,Trial,Platforms,TRUE,
+Octopus Deply,Trial,Platforms,TRUE,Automate Development workflows.
+Database Migration Service,Trial,Platforms,TRUE,Automates the movement of data from on-prem databases into the cloud.
+Event storming,Trial,Techniques,TRUE,
+Feature flags / toggles,Trial,Techniques,TRUE,
+GitHub Actions,Trial,Tools,TRUE,
+K6.io,Trial,Tools,TRUE,
+mabl,Trial,Tools,TRUE,
+Text Analytics,Trial,Tools,TRUE,"Extract information from free-form text such as Sentiment, entities and language."
 Azure Service Fabric,Assess,Platforms,TRUE,
 Blazor,Assess,Frameworks,TRUE,
 .NET MAUI,Assess,Frameworks,TRUE,
@@ -69,12 +78,3 @@ Docker Compose,Hold,Platforms,TRUE,
 ARM based deployment,Hold,Tools,TRUE,
 Jenkins,Hold,Tools,TRUE,
 TeamCity,Hold,Tools,TRUE,
-cert-manager.io,Trial,Platforms,TRUE,
-Octopus Deply,Trial,Platforms,TRUE,Automate Development workflows.
-Database Migration Service,Trial,Platforms,TRUE,Automates the movement of data from on-prem databases into the cloud.
-Event storming,Trial,Techniques,TRUE,
-Feature flags / toggles,Trial,Techniques,TRUE,
-GitHub Actions,Trial,Tools,TRUE,
-K6.io,Trial,Tools,TRUE,
-mabl,Trial,Tools,TRUE,
-Text Analytics,Trial,Tools,TRUE,"Extract information from free-form text such as Sentiment, entities and language."
